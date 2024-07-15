@@ -1,6 +1,6 @@
 <div align="center">
     <br/>
-    <img src="https://daga.gitee.io/static/images/nms-admin/logo.png" alt="" />
+    <img src="https://micaomao.gitee.io/static/images/nms-admin/logo.png" alt="" />
     <h1 align="center">
         Micaomao Admin
     </h1>
@@ -8,7 +8,7 @@
         快速且灵活的后台框架
     </h4> 
 
-[官网](https://nmsadmin.com) | [Demo](http://demo.nmsadmin.com) | [Github](https://github.com/micaomao/nms-admin) | [Gitee](https://gitee.com/daga/nms-admin) | [文档](http://doc.nmsadmin.com) | [加群](https://jq.qq.com/?_wv=1027&k=5La4Ir6c)
+[官网](https://nmsadmin.com) | [Demo](http://demo.nmsadmin.com) | [Github](https://github.com/micaomao/nms-admin) | [Gitee](https://gitee.com/micaomao/nms-admin) | [文档](http://doc.nmsadmin.com) | [加群](https://jq.qq.com/?_wv=1027&k=5La4Ir6c)
 
 </div>
 
@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/Amis-3.0%2B-%23268af1" alt="Layui Version">
     </a>
 &nbsp;
-      <a href="https://packagist.org/packages/daga/nms-admin">
+      <a href="https://packagist.org/packages/micaomao/nms-admin">
         <img src="https://img.shields.io/badge/license-MIT-%23268af1" alt="Layui Version">
     </a>
 </p>
@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <img  width="92%" style="border-radius:4px;margin-top:20px;margin-bottom:20px;box-shadow: 2px 0 6px gray;" src="https://daga.gitee.io/static/images/nms-admin/_home.png" />
+  <img  width="92%" style="border-radius:4px;margin-top:20px;margin-bottom:20px;box-shadow: 2px 0 6px gray;" src="https://micaomao.gitee.io/static/images/nms-admin/_home.png" />
 </div>
 <br>
 
@@ -67,9 +67,9 @@
 
 ### 截图
 
-![登录](https://daga.gitee.io/static/images/nms-admin/_login.png)
-![首页](https://daga.gitee.io/static/images/nms-admin/_home.png)
-![可视化编辑器](https://daga.gitee.io/static/images/nms-admin/_editor.png)
+![登录](https://micaomao.gitee.io/static/images/nms-admin/_login.png)
+![首页](https://micaomao.gitee.io/static/images/nms-admin/_home.png)
+![可视化编辑器](https://micaomao.gitee.io/static/images/nms-admin/_editor.png)
 
 <br>
 
@@ -100,7 +100,7 @@ DB_PASSWORD=
 ##### 3. 获取 `Micaomao Admin`
 
 ```shell
-composer require daga/nms-admin
+composer require micaomao/nms-admin
 ```
 
 ##### 4. 安装
@@ -121,7 +121,7 @@ _初始账号密码都是 `admin`_
 
 ### 小白入门视频
 
-[![入门视频](https://daga.gitee.io/static/images/nms-admin/video.png)](https://www.bilibili.com/video/BV18w411X7BG)
+[![入门视频](https://micaomao.gitee.io/static/images/nms-admin/video.png)](https://www.bilibili.com/video/BV18w411X7BG)
 
 <br>
 
@@ -134,7 +134,7 @@ _初始账号密码都是 `admin`_
   - 参见 [贡献文档](https://github.com/micaomao/nms-admin/blob/master/CONTRIBUTING.md)
 - 点点 Star 
     - 如果觉得项目不错，或者已经在使用了，希望你可以去 [Github](https://github.com/micaomao/nms-admin)
-或者 [Gitee](https://gitee.com/daga/nms-admin) 帮我们点个 ⭐ Star，这将是对我们极大的鼓励与支持。
+或者 [Gitee](https://gitee.com/micaomao/nms-admin) 帮我们点个 ⭐ Star，这将是对我们极大的鼓励与支持。
 
 [![Stargazers over time](https://starchart.cc/micaomao/nms-admin.svg?variant=adaptive)](https://github.com/micaomao/nms-admin)
 
