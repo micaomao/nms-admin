@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Plain 纯文本渲染器 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/plain
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Plain extends BaseRenderer

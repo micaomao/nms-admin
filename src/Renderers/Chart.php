@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Chart 图表渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/carousel
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Chart extends BaseRenderer

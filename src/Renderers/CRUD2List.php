@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * CRUD2List
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class CRUD2List extends BaseRenderer

@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * ConditionGroupValue
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class ConditionGroupValue extends BaseRenderer

@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Audio 音频渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/audio
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Audio extends BaseRenderer

@@ -91,7 +91,7 @@ JS
                         amis()->Image()->src(url(Admin::config('admin.logo'))),
                         amis()->Wrapper()->className('text-3xl mt-9 font-bold')->body(Admin::config('admin.name')),
                         amis()->Flex()->className('w-64 mt-5')->justify('space-around')->items([
-                            $link('GitHub', 'https://github.com/daga/nms-admin'),
+                            $link('GitHub', 'https://github.com/micaomao/nms-admin'),
                             $link('Official website', 'https://nmsadmin.com'),
                             $link('Documentation', 'https://doc.nmsadmin.com'),
                             $link('Demo', 'http://demo.nmsadmin.com'),

@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 链式下拉框 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/chained-select
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class ChainedSelectControl extends BaseRenderer

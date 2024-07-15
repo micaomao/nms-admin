@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Divider 分割线渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/divider
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Divider extends BaseRenderer

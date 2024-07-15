@@ -102,7 +102,7 @@ return [
          */
         'keep_alive_exclude' => [],
         // 底部信息
-        'footer'             => '<a href="https://github.com/daga/nms-admin" target="_blank">Micaomao Admin</a>',
+        'footer'             => '<a href="https://github.com/micaomao/nms-admin" target="_blank">Micaomao Admin</a>',
     ],
 
     'database' => [

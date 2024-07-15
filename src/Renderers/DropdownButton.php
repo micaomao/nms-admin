@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 下拉按钮渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/dropdown-button
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class DropdownButton extends BaseRenderer

@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Tab
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Tab extends BaseRenderer

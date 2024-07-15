@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Column
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Column extends BaseRenderer

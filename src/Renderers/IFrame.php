@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * IFrame 渲染器 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/iframe
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class IFrame extends BaseRenderer

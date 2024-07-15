@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * DateRange 日期范围控件 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/date-range
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class DateRangeControl extends BaseRenderer

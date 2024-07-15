@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * AnchorNav 锚点导航渲染器 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/anchor-nav
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class AnchorNav extends BaseRenderer

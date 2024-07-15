@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * TabsTransfer 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/tabs-transfer
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class TabsTransferControl extends BaseRenderer

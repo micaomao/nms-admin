@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * GridNav 宫格导航
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class GridNav extends BaseRenderer

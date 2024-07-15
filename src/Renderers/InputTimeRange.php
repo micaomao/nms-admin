@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * InputTimeRange 时间范围
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class InputTimeRange extends BaseRenderer

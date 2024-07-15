@@ -222,7 +222,7 @@ class Admin
         if (is_file(public_path('admin-assets/index.html'))) {
             $view = file_get_contents(public_path('admin-assets/index.html'));
         } else {
-            $view = file_get_contents(base_path('vendor/daga/nms-admin/admin-views/dist/index.html'));
+            $view = file_get_contents(base_path('vendor/micaomao/nms-admin/admin-views/dist/index.html'));
         }
 
         $script = '<script>window.$adminApiPrefix = "/' . $apiPrefix . '"</script>';

@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * TableSchema2
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class TableSchema2 extends BaseRenderer

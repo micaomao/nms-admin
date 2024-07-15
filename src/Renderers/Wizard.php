@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 表单向导 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/wizard
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Wizard extends BaseRenderer

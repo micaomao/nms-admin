@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * UserSelect 移动端人员选择。
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class UserSelectControl extends BaseRenderer

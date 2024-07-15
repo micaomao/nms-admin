@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Time 时间选择控件 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/time
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class TimeControl extends BaseRenderer

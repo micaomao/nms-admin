@@ -7,7 +7,7 @@ use Micaomao\NmsAdmin\Traits\UploadTrait;
 /**
  * File 文件上传控件 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/file
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class FileControl extends BaseRenderer

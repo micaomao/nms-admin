@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Toast 轻提示
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Toast extends BaseRenderer

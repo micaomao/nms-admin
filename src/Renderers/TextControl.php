@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Text 文本输入框。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/text
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class TextControl extends BaseRenderer

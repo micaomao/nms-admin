@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 进度展示控件。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/progress
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Progress extends BaseRenderer

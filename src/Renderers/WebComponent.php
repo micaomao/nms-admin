@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Web Component
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class WebComponent extends BaseRenderer

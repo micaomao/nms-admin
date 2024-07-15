@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * CRUD2Table
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class CRUD2Table extends BaseRenderer

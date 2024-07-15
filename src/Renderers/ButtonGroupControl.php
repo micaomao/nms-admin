@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 按钮组控件。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/button-group
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class ButtonGroupControl extends BaseRenderer

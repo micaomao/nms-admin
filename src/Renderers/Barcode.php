@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Barcode 条形码 https://aisuda.bce.baidu.com/amis/zh-CN/components/barcode
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Barcode extends BaseRenderer

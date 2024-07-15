@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Panel渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/panel
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Panel extends BaseRenderer

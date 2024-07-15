@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Custom 自定义组件
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Custom extends BaseRenderer

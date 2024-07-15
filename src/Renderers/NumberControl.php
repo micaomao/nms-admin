@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 数字输入框 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/input-number
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class NumberControl extends BaseRenderer

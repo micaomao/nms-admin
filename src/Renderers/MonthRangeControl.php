@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * MonthRange 月范围控件 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/month-range
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class MonthRangeControl extends BaseRenderer

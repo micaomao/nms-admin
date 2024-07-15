@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Dialog 弹框渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/dialog
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Dialog extends BaseRenderer

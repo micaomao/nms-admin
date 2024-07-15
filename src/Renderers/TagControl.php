@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Tag 输入框 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/tag
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class TagControl extends BaseRenderer

@@ -7,7 +7,7 @@ use Micaomao\NmsAdmin\Traits\UploadTrait;
 /**
  * Image 图片上传控件 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/image
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class ImageControl extends BaseRenderer

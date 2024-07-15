@@ -183,7 +183,7 @@ class ExtensionController extends AdminController
                         amis()->TextControl()
                             ->name('name')
                             ->label(__('admin.extensions.form.name'))
-                            ->placeholder('eg: daga/nms-admin')
+                            ->placeholder('eg: micaomao/nms-admin')
                             ->required(),
                         amis()->TextControl()
                             ->name('namespace')

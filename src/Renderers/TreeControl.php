@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Tree 下拉选择框。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/tree
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class TreeControl extends BaseRenderer

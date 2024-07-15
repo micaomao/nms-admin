@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 不指定类型默认就是文本
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class ListBodyField extends BaseRenderer

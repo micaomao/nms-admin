@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Log 实时日志
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Log extends BaseRenderer

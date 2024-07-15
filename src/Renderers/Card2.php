@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Card2 新卡片渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/card2
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Card2 extends BaseRenderer

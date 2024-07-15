@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Static 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/static
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class StaticExactControl extends BaseRenderer

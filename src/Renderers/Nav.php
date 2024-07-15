@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Nav 导航渲染器 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/nav
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Nav extends BaseRenderer

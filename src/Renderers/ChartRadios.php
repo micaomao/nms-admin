@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * ChartRadios 图表单选框
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class ChartRadios extends BaseRenderer

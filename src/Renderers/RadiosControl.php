@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Radio 单选框。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/radios
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class RadiosControl extends BaseRenderer

@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Hbox 水平布局渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/hbox
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class HBox extends BaseRenderer

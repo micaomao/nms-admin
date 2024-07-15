@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Color 颜色选择框 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/color
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class InputColorControl extends BaseRenderer

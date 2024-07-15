@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * HBoxColumn
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class HBoxColumn extends BaseRenderer

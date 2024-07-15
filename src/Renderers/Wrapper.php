@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Wrapper 容器渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/wrapper
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Wrapper extends BaseRenderer

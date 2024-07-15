@@ -57,10 +57,10 @@ class CheckCommand extends Command
     public function checkVersion()
     {
         try {
-            $latest = file_get_contents('https://gitee.com/api/v5/repos/daga/nms-admin/tags?sort=updated&direction=desc&page=1&per_page=1');
+            $latest = file_get_contents('https://gitee.com/api/v5/repos/micaomao/nms-admin/tags?sort=updated&direction=desc&page=1&per_page=1');
             $latest = json_decode($latest, true)[0]['name'];
 
-            $now = Composer::getVersion('daga/nms-admin');
+            $now = Composer::getVersion('micaomao/nms-admin');
 
             if ($now !== $latest) {
                 $this->echoWarn(

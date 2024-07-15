@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * SubForm 子表单 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/subform
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class SubFormControl extends BaseRenderer

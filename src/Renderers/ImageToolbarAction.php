@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * ImageToolbarAction
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class ImageToolbarAction extends BaseRenderer

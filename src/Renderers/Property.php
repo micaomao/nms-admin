@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Property 属性表
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Property extends BaseRenderer

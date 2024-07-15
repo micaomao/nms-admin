@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Tasks 渲染器，格式说明 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/tasks
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Tasks extends BaseRenderer

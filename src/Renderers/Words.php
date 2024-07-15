@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Words
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Words extends BaseRenderer

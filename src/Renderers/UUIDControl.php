@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * UUID 功能性组件 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/uuid
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class UUIDControl extends BaseRenderer

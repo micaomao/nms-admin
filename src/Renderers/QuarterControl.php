@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 季度选择控件
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class QuarterControl extends BaseRenderer

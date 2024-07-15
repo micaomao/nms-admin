@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 图片集展示控件。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/images
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Images extends BaseRenderer

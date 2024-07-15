@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * EmailAction
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class EmailAction extends BaseRenderer

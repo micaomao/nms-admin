@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 表格列，不指定类型时默认为文本类型。
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class TableColumn extends BaseRenderer

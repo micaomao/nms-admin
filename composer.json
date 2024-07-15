@@ -1,17 +1,17 @@
 {
-    "name": "daga/nms-admin",
+    "name": "micaomao/nms-admin",
     "description": "基于 laravel、amis 开发的后台框架~",
     "license": "MIT",
     "authors": [
         {
-            "name": "daga",
-            "email": "daga@qq.com",
-            "homepage": "https://github.com/daga"
+            "name": "micaomao",
+            "email": "micaomao@qq.com",
+            "homepage": "https://github.com/micaomao"
         }
     ],
-    "homepage": "https://github.com/daga/nms-admin",
+    "homepage": "https://github.com/micaomao/nms-admin",
     "support": {
-        "email": "daga@qq.com",
+        "email": "micaomao@qq.com",
         "issues": "https://github.com/micaomao/nms-admin/issues",
         "forum": "https://github.com/micaomao/nms-admin/discussions",
         "wiki": "https://doc.nmsadmin.com/"
@@ -25,7 +25,7 @@
     "require": {
         "php": ">=8.0",
         "illuminate/support": ">=9",
-        "daga/laravel-support": "*",
+        "micaomao/laravel-support": "*",
         "ext-zip": "*",
         "ext-gd": "*"
     },

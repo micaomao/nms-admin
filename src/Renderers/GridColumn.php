@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * GridColumn
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class GridColumn extends BaseRenderer

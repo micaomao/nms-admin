@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "daga/nms-admin": "*"
+        "micaomao/nms-admin": "*"
     },
     "autoload": {
         "psr-4": {

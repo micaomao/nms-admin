@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Code 代码高亮
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Code extends BaseRenderer

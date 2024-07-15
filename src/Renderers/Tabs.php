@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 选项卡控件。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/tabs
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Tabs extends BaseRenderer

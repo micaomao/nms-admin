@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Action 行为按钮 https://aisuda.bce.baidu.com/amis/zh-CN/components/action
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Action extends BaseRenderer

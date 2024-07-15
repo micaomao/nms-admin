@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * WizardStep
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class WizardStep extends BaseRenderer

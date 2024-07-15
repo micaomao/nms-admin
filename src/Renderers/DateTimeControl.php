@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Datetime日期时间选择控件 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/datetime
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class DateTimeControl extends BaseRenderer

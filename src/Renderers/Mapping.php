@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Mapping 映射展示控件。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/mapping
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Mapping extends BaseRenderer

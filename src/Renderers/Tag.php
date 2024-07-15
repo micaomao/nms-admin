@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Tag
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Tag extends BaseRenderer

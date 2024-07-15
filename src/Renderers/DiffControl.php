@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Diff 编辑器 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/diff
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class DiffControl extends BaseRenderer

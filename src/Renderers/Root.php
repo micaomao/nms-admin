@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * amis Page 渲染器。详情请见：https://aisuda.bce.baidu.com/amis/zh-CN/components/page
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Root extends BaseRenderer

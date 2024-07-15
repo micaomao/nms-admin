@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * SchemaCopyable
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class SchemaCopyable extends BaseRenderer

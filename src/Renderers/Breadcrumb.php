@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Breadcrumb 面包屑 https://aisuda.bce.baidu.com/amis/zh-CN/components/breadcrumb
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Breadcrumb extends BaseRenderer

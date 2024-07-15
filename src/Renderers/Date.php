@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Date 展示渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/date
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Date extends BaseRenderer

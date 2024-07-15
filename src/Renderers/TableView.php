@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Table View 表格展现
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class TableView extends BaseRenderer

@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Grid 格子布局渲染器。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/grid
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Grid extends BaseRenderer

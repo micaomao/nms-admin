@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * AutoGenerateFilter
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class AutoGenerateFilter extends BaseRenderer

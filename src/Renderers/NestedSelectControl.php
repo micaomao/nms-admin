@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Nested Select 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/nested-select
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class NestedSelectControl extends BaseRenderer

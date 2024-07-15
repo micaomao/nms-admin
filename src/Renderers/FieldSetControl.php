@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * FieldSet 表单项集合 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/fieldset
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class FieldSetControl extends BaseRenderer

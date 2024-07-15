@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * JSON 数据展示控件。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/json
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Json extends BaseRenderer

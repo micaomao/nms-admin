@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Matrix 选择控件。适合做权限勾选。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/matrix
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class MatrixControl extends BaseRenderer

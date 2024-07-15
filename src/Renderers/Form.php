@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Form 表单渲染器。说明：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/index
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Form extends BaseRenderer

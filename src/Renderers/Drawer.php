@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * Drawer 抽出式弹框。 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/drawer
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class Drawer extends BaseRenderer

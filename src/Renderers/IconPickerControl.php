@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 图标选择器 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/icon-picker
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class IconPickerControl extends BaseRenderer

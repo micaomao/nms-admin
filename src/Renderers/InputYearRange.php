@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * InputYearRange 年份范围
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class InputYearRange extends BaseRenderer

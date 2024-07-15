@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * InputKVS 键值对象
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class InputKVS extends BaseRenderer

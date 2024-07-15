@@ -5,7 +5,7 @@ namespace Micaomao\NmsAdmin\Renderers;
 /**
  * 条件组合控件 文档：https://aisuda.bce.baidu.com/amis/zh-CN/components/form/condition-builder
  *
- * @author  daga
+ * @author  micaomao
  * @version 6.4.1
  */
 class ConditionBuilderControl extends BaseRenderer
