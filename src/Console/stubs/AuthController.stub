@@ -1,0 +1,10 @@
+<?php
+
+namespace {{Namespace}};
+
+use Micaomao\NmsAdmin\Controllers\AuthController as AdminAuthController;
+
+class AuthController extends AdminAuthController
+{
+
+}

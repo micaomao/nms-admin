@@ -1,0 +1,33 @@
+{
+    "name": "{package}",
+    "alias": "{alias}",
+    "description": "Description...",
+    "type": "library",
+    "version": "1.0.0",
+    "keywords": ["nms-admin", "extension"],
+    "homepage": "https://github.com/{package}",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "your name",
+            "email": "your email"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "daga/nms-admin": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "{namespace}": "src/"
+        }
+    },
+    "extra": {
+        "nms-admin": "{namespace}{className}ServiceProvider",
+        "laravel": {
+            "providers": [
+                "{namespace}{className}ServiceProvider"
+            ]
+        }
+    }
+}
