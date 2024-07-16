@@ -25,7 +25,7 @@
     "require": {
         "php": ">=8.0",
         "illuminate/support": ">=9",
-        "micaomao/laravel-support": "*",
+        "slowlyo/laravel-support": "*",
         "ext-zip": "*",
         "ext-gd": "*"
     },
