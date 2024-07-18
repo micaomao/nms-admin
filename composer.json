@@ -5,13 +5,13 @@
     "authors": [
         {
             "name": "micaomao",
-            "email": "micaomao@qq.com",
+            "email": "micaomao@163.com",
             "homepage": "https://github.com/micaomao"
         }
     ],
     "homepage": "https://github.com/micaomao/nms-admin",
     "support": {
-        "email": "micaomao@qq.com",
+        "email": "micaomao@163.com",
         "issues": "https://github.com/micaomao/nms-admin/issues",
         "forum": "https://github.com/micaomao/nms-admin/discussions",
         "wiki": "https://doc.nmsadmin.com/"
