@@ -3,12 +3,12 @@
 namespace {{Namespace}};
 
 use Illuminate\Http\Request;
-use Micaomao\OwlAdmin\Renderers\Tab;
-use Micaomao\OwlAdmin\Renderers\Tabs;
-use Micaomao\OwlAdmin\Renderers\Alert;
-use Micaomao\OwlAdmin\Renderers\InputKV;
-use Micaomao\OwlAdmin\Renderers\TextControl;
-use Micaomao\OwlAdmin\Controllers\AdminController;
+use Micaomao\NmsAdmin\Renderers\Tab;
+use Micaomao\NmsAdmin\Renderers\Tabs;
+use Micaomao\NmsAdmin\Renderers\Alert;
+use Micaomao\NmsAdmin\Renderers\InputKV;
+use Micaomao\NmsAdmin\Renderers\TextControl;
+use Micaomao\NmsAdmin\Controllers\AdminController;
 
 class SettingController extends AdminController
 {
